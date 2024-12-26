@@ -18,7 +18,7 @@ This project involves analyzing the W2U Group Employee Dataset to compare employ
 
 <br>
 
-### Business Questions
+### Project Business Questions
 #### Section A: Data Cleaning
 Tasks Performed:
 
@@ -67,7 +67,7 @@ Tasks Performed:
 
 <br>
 
-### Section C: Business Visualization Questions
+#### Section C: Business Visualization Questions
 
 1. Salary Distribution
 - Created visualizations to analyze how salaries are spread across the company.
@@ -92,7 +92,7 @@ Designed a comprehensive dashboard to display:
 - A general Key Performance Indicators (KPIs)
 - Insights from Female vs Male comparison
 - Staffs per Departments and How Salaries are Spread
-- Company's Growth and the Relationship between Rating and Salaries
+- Company's Growth and The Relationship between Rating & Salaries
 
 **Tools Used: Excel Shapes, Pivot Table and Charts**
 
