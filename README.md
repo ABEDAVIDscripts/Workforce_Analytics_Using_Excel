@@ -96,3 +96,16 @@ Designed a comprehensive dashboard to display:
 
 **Tools Used: Excel Shapes, Pivot Table and Charts**
 
+<br>
+
+#### Section E: Insights and Findings
+
+1. Key Employee Demographics
+- Total Employees: The organization employs 1,038 individuals distributed between the USA and other countries.
+- Gender Distribution:
+  - Males constitute 51.7% (525 employees) of the workforce, while females make up 45.2% (475 employees).
+  - The male-to-female ratio indicates a slight gender imbalance favoring males, particularly in higher salary bands.
+- Average Age: The workforce has an average age of 33.4 years, reflecting a relatively young and vibrant workforce.
+
+
+
