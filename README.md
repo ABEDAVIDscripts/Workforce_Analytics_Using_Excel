@@ -1,6 +1,6 @@
 # Employees Dataset Cleaning, EDA & Data Visualization using MS.Excel
 
-![alt text](image.jpg)
+![Report Dashboard](ReportDashboard.PNG)
 
 <br>
 
