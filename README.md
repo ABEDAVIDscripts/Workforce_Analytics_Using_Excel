@@ -19,11 +19,11 @@ This project involves analyzing the W2U Group Employee Dataset to compare employ
 <br>
 ### Dataset
 
-- Raw file: [Employee Dataset](https://mega.nz/file/x9QASRiJ#qDtln-U5-stvDq3dKyVVWRfwP_ikAKVDCGmVrUKa_YM).
+- Raw file: [Employee Raw Dataset](https://mega.nz/file/x9QASRiJ#qDtln-U5-stvDq3dKyVVWRfwP_ikAKVDCGmVrUKa_YM).
 - The dataset contains 2 different tables:
   - USA: 465 rows, 7 columns
   - Other Countries: 600 rows, 7 columns
-- Analyzed file: [Employee Analyzed Dataset](https://mega.nz/file/U1ImTZYA#SFnDqjV0DyCLuF3ozh4axsAf_s7xz8nZHEXHf45RAnE).
+- Final file: [Employee Cleaned and Visualized Dataset](https://mega.nz/file/U1ImTZYA#SFnDqjV0DyCLuF3ozh4axsAf_s7xz8nZHEXHf45RAnE).
 
 
 <BR>
