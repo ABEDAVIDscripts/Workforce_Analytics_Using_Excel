@@ -14,7 +14,7 @@ This project involves analyzing the W2U Group Employee Dataset to compare employ
 2. Conduct business analysis to answer key questions about the data.
 3. Create visualizations to uncover trends and relationships.
 4. Build a comprehensive dashboard for quick insights.
-5. Provide actionable insights and recommendations based on the findings.
+5. Provide actionable insights based on the findings.
 
 <br>
 ### Dataset
