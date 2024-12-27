@@ -22,8 +22,8 @@ This project involves analyzing the W2U Group Employee Dataset to compare employ
 
 - Raw file: [Employee Raw Dataset](https://mega.nz/file/x9QASRiJ#qDtln-U5-stvDq3dKyVVWRfwP_ikAKVDCGmVrUKa_YM).
 - The dataset contains 2 different tables:
-  - USA: 465 rows, 7 columns
-  - Other Countries: 600 rows, 7 columns
+  - **USA:** 465 rows, 7 columns
+  - **Other Countries:** 600 rows, 7 columns
 - Final file: [Employee Cleaned and Visualized Dataset](https://mega.nz/file/U1ImTZYA#SFnDqjV0DyCLuF3ozh4axsAf_s7xz8nZHEXHf45RAnE).
 
 
@@ -31,18 +31,18 @@ This project involves analyzing the W2U Group Employee Dataset to compare employ
 
 ### Project Business Questions
 
-#### Section A: Data Cleaning
+### Section A: Data Cleaning
 Tasks Performed:
 
 1. Cleaned the Dataset
 2. Updated the Dataset
-3. Merge Table
+3. Merged Tables
 
 **Tools Used: Excel Power Query**
 
 <br>
 
-#### Section B: Business Analysis Questions
+### Section B: Business Analysis Questions
 
 **1. Quick Analysis of the Data**
 - Number of Employees in the dataset.
@@ -55,7 +55,7 @@ Tasks Performed:
 
 **2. Information Finder**
 - Build an information using "Name" as the search parameter 
-- Information to display: Name, Gender, Department, Age, Date of Join, Salary, Rating, and Country.
+- Information to display: Name, Gender, Department, Age, Date Join, Salary, Rating, and Country.
 
 **3. Male vs Female Comparison**
 
@@ -63,11 +63,11 @@ Tasks Performed:
 - 3% of salary for employees who have worked for at least 3 years or more and 2% of salary for employees with tenure less than 3 years.
 - Top 10 Employees by Bonus.
 
-**Tools Used: Excel Pivot Table**
+**Tools Used: Excel Pivot Table and Formula**
 
 <br>
 
-#### Section C: Business Visualization Questions
+### Section C: Business Visualization Questions
 
 1. Salary Distribution
 2. Staffs per Department
@@ -78,7 +78,7 @@ Tasks Performed:
 
 <br>
 
-#### Section D: Report Card Dashboard
+### Section D: Report Card Dashboard
 
 Design an interactive dashboard to display:
 
@@ -91,7 +91,7 @@ Design an interactive dashboard to display:
 
 <br>
 
-#### Section E: Insights and Findings
+### Section E: Insights and Findings
 
 **1. Key Employee Demographics**
 - Total Employees: The organization employs 1,038 individuals distributed between the USA and other countries.
