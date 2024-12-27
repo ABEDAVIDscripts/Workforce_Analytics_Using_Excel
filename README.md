@@ -1,5 +1,7 @@
 # Employees Dataset Cleaning, EDA & Data Visualization using MS.Excel
 
+![alt text](image.jpg)
+
 <br>
 
 ### Project Overview
