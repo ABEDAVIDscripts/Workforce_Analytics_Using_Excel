@@ -22,17 +22,9 @@ This project involves analyzing the W2U Group Employee Dataset to compare employ
 #### Section A: Data Cleaning
 Tasks Performed:
 
-**1. Cleaned the Dataset:**
-- Table formatted and removed duplicates.
-- Data Standardization.
-- Handled missing values appropriately.
-
-**2. Updated the Dataset:**
-- Changed entries labeled "Website" to "IT" for consistency in the "Department" column.
-- Corrected all the month dates in 2025 to "January" in the "Date Joined" column.
-
-**3. Table Merging:**
-- Merged the "USA" and "Other Countries" tables to form a single Employees Table
+1. Cleaned the Dataset
+2. Updated the Dataset
+3. Mergee Table
 
 **Tools Used: Excel Power Query**
 
@@ -41,27 +33,25 @@ Tasks Performed:
 #### Section B: Business Questions
 
 **1. Quick Analysis of the Data**
-- Number of Employees: Total count of employees across all regions.
-- Total Salary: Aggregate of all salaries.
-- Average Salary: Mean salary calculated across all employees.
-- Average Age: Mean age of employees.
-- Average Tenure: Mean years employees have worked at the company.
-- Gender Ratios: Ratio of all the genders.
-- Percentage of Staff Earning More Than $90,000
+- Number of Employees in the dataset.
+- Total Salary.
+- Average Salary.
+- Average Age.
+- Average Tenure.
+- Gender Ratios.
+- Percentage of Staff Earning More Than $90,000.
 
 **2. Information Finder**
-- Built an information with Vlookup tool using "Name" as the search parameter to display:
-- Name, Gender, Department, Age, Date of Join, Salary, Rating, and Country.
+- Build an information using "Name" as the search parameter 
+- Information to display: Name, Gender, Department, Age, Date of Join, Salary, Rating, and Country.
 
 **3. Male vs Female Comparison**
 - Conducted a comparative analysis of metrics such as:
 - No of Employees, Avg Salary, Avg Tenure, Avg Rating e.t.c between male and female employees.
 
 **4. Calculate Annual Bonus**
-- Bonus Calculation:
-  - 3% of salary for employees who have worked for at least 3 years or more and 2% of salary for employees with tenure less than 3 years.
-- Top 10 Employees by Bonus:
-  - Identified employees with the highest annual bonuses.
+- 3% of salary for employees who have worked for at least 3 years or more and 2% of salary for employees with tenure less than 3 years.
+- Top 10 Employees by Bonus.
 
 **Tools Used: Excel Pivot Table**
 
@@ -107,5 +97,30 @@ Designed a comprehensive dashboard to display:
   - The male-to-female ratio indicates a slight gender imbalance favoring males, particularly in higher salary bands.
 - Average Age: The workforce has an average age of 33.4 years, reflecting a relatively young and vibrant workforce.
 
+
+2. Financial Metrics
+- Average Salary of $157,412 and Total Salary of $163,393,780 across all employees.
+- Salary Spread by Department:
+  - Finance ($37.3M) and Sales ($35.3M) dominate total salary allocation.
+  - IT ($32.9M) also shows significant salary expenditure, indicating a strategic focus on technology.
+ 
+3. Performance Insights
+- Rating Distribution:
+  - Exceptional-Rating have the highest salary ratio with 49% ($80.4M), followed by Above-Average Rating with 23% ($36.9M).
+  - Average-Rating have the highest population of employees (339).
+- Employees with higher ratings are consistently better compensated, demonstrating a performance-driven remuneration system.
+
+4. Retention and Growth Trends
+- Average Tenure is 3.4 years. Employees tend to stay with the organization for a moderate duration, reflecting average retention.
+- The organization experienced the highest employment rate in February 2022 (31).
+
+5. Gender Pay Analysis
+- Males earn a slightly higher average salary ($161,017) compared to females ($155,597).
+- Total Salary Allocation: $84.5M (males) vs $73.9M (females).
+- While differences exist, the gender pay gap is not overly significant and aligns with the workforce distribution.
+
+6. Departmental Staff Distribution
+- The Finance department leads in workforce size and salary allocation, indicating its strategic importance.
+- Sales and IT departments also show strong representation, emphasizing business development and technological support.
 
 
