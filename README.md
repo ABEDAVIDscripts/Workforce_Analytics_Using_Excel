@@ -19,21 +19,17 @@ This project involves analyzing the W2U Group Employee Dataset to compare employ
 <br>
 ### Dataset
 
-- Source: [Employee Dataset](https://mega.nz/file/x9QASRiJ#qDtln-U5-stvDq3dKyVVWRfwP_ikAKVDCGmVrUKa_YM) contains the raw dataset.
+- Raw file: [Employee Dataset](https://mega.nz/file/x9QASRiJ#qDtln-U5-stvDq3dKyVVWRfwP_ikAKVDCGmVrUKa_YM).
 - The dataset contains 2 different tables:
-  - USA table: 465 rows, 7 columns
+  - USA: 465 rows, 7 columns
   - Other Countries: 600 rows, 7 columns
-  
-
-- Source: Blinkit Dataset Contains unprocessed data from Blinkit.
-- No of Columns: 12 columns.
-- No of Rows: 8525 rows.
-
+- Analyzed file: [Employee Analyzed Dataset](https://mega.nz/file/U1ImTZYA#SFnDqjV0DyCLuF3ozh4axsAf_s7xz8nZHEXHf45RAnE).
 
 
 <BR>
 
 ### Project Business Questions
+
 #### Section A: Data Cleaning
 Tasks Performed:
 
