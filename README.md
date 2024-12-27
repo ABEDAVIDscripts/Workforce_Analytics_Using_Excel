@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-This project involves analyzing the W2U Group Employee Dataset to compare employees in the USA with employees in other countries. The objectives span data cleaning, business analysis, visualization, and summarizing insights to draw actionable conclusions. The dataset analysis leverages tools such as Excel Power Query and Excel.
+This project involves analyzing an Organization's Employee Dataset to compare employees in the USA with employees in other countries. The objectives span data cleaning, business analysis, visualization, and summarizing insights to draw actionable conclusions. The dataset analysis leverages tools such as Excel Power Query and Excel.
 
 <br>
 
