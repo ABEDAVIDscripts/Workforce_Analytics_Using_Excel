@@ -17,6 +17,21 @@ This project involves analyzing the W2U Group Employee Dataset to compare employ
 5. Provide actionable insights and recommendations based on the findings.
 
 <br>
+### Dataset
+
+- Source: [Employee Dataset](https://mega.nz/file/x9QASRiJ#qDtln-U5-stvDq3dKyVVWRfwP_ikAKVDCGmVrUKa_YM) contains the raw dataset.
+- The dataset contains 2 different tables:
+  - USA table: 465 rows, 7 columns
+  - Other Countries: 600 rows, 7 columns
+  
+
+- Source: Blinkit Dataset Contains unprocessed data from Blinkit.
+- No of Columns: 12 columns.
+- No of Rows: 8525 rows.
+
+
+
+<BR>
 
 ### Project Business Questions
 #### Section A: Data Cleaning
@@ -24,13 +39,13 @@ Tasks Performed:
 
 1. Cleaned the Dataset
 2. Updated the Dataset
-3. Mergee Table
+3. Merge Table
 
 **Tools Used: Excel Power Query**
 
 <br>
 
-#### Section B: Business Questions
+#### Section B: Business Analysis Questions
 
 **1. Quick Analysis of the Data**
 - Number of Employees in the dataset.
@@ -46,8 +61,6 @@ Tasks Performed:
 - Information to display: Name, Gender, Department, Age, Date of Join, Salary, Rating, and Country.
 
 **3. Male vs Female Comparison**
-- Conducted a comparative analysis of metrics such as:
-- No of Employees, Avg Salary, Avg Tenure, Avg Rating e.t.c between male and female employees.
 
 **4. Calculate Annual Bonus**
 - 3% of salary for employees who have worked for at least 3 years or more and 2% of salary for employees with tenure less than 3 years.
@@ -60,16 +73,9 @@ Tasks Performed:
 #### Section C: Business Visualization Questions
 
 1. Salary Distribution
-- Created visualizations to analyze how salaries are spread across the company.
-
-2. Staffs per Department:
-- Analyzed and visualized the no of employees in each departments.
-
+2. Staffs per Department
 3. Relationship Between Rating and Salary
-- Visualized the correlation between employee ratings and their salaries.
-
 4. Company Growth Over Time
-- Analyzed and visualized employee growth trends year by year.
 
 **Tools Used: Excel Pivot Table and Charts**
 
@@ -77,7 +83,7 @@ Tasks Performed:
 
 #### Section D: Report Card Dashboard
 
-Designed a comprehensive dashboard to display:
+Design an interactive dashboard to display:
 
 - A general Key Performance Indicators (KPIs)
 - Insights from Female vs Male comparison
@@ -90,29 +96,26 @@ Designed a comprehensive dashboard to display:
 
 #### Section E: Insights and Findings
 
-1. Key Employee Demographics
+**1. Key Employee Demographics**
 - Total Employees: The organization employs 1,038 individuals distributed between the USA and other countries.
-- Gender Distribution:
-  - Males constitute 51.7% (525 employees) of the workforce, while females make up 45.2% (475 employees).
-  - The male-to-female ratio indicates a slight gender imbalance favoring males, particularly in higher salary bands.
-- Average Age: The workforce has an average age of 33.4 years, reflecting a relatively young and vibrant workforce.
-
+- Males constitute 51.7% (525 employees) of the workforce, while females make up 45.2% (475 employees).
+- The male-to-female ratio indicates a slight gender imbalance favoring males, particularly in higher salary bands.
+- The workforce has an average age of 33.4 years, reflecting a relatively young and vibrant workforce.
 
 2. Financial Metrics
-- Average Salary of $157,412 and Total Salary of $163,393,780 across all employees.
-- Salary Spread by Department:
-  - Finance ($37.3M) and Sales ($35.3M) dominate total salary allocation.
-  - IT ($32.9M) also shows significant salary expenditure, indicating a strategic focus on technology.
+- Average Salary of $157,412 and a Total Salary of $163,393,780 across all employees.
+- Finance ($37.3M) and Sales ($35.3M) dominate total salary allocation.
+- IT ($32.9M) also shows significant salary expenditure, indicating a strategic focus on technology.
  
-3. Performance Insights
-- Rating Distribution:
-  - Exceptional-Rating have the highest salary ratio with 49% ($80.4M), followed by Above-Average Rating with 23% ($36.9M).
-  - Average-Rating have the highest population of employees (339).
+3. Performance Insights (Rating Distribution)
+- Exceptional-Rating have the highest salary ratio with 49% ($80.4M), followed by Above-Average Rating with 23% ($36.9M).
+- Average-Rating have the highest population of employees (339).
 - Employees with higher ratings are consistently better compensated, demonstrating a performance-driven remuneration system.
 
 4. Retention and Growth Trends
-- Average Tenure is 3.4 years. Employees tend to stay with the organization for a moderate duration, reflecting average retention.
-- The organization experienced the highest employment rate in February 2022 (31).
+- Average Tenure is 3.4 years.
+- Employees tend to stay with the organization for a moderate duration, reflecting average retention.
+- The organization experienced their highest employment rate in February 2022 (31).
 
 5. Gender Pay Analysis
 - Males earn a slightly higher average salary ($161,017) compared to females ($155,597).
