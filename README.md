@@ -2,7 +2,7 @@
 
 ![Report Dashboard](ReportDashboard.PNG)
 
-<BR>
+<br>
 
 ### Project Overview
 
@@ -125,4 +125,4 @@ Design an interactive dashboard to display:
 - The Finance department leads in workforce size and salary allocation, indicating its strategic importance.
 - Sales and IT departments also show strong representation, emphasizing business development and technological support.
 
-
+<br>
