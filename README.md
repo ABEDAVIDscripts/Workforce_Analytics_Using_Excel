@@ -1,4 +1,4 @@
-# Workforce Analytics Using Excel
+# Workforce Analytics & Visualization in Excel
 
 <br>
 
@@ -24,7 +24,9 @@ This project involves analyzing an Organization's Employee Dataset to compare em
 - The dataset contains 2 different tables:
   - **USA:** 465 rows, 7 columns
   - **Other Countries:** 600 rows, 7 columns
-- Dashboad image: [Employee Dashboard](https://drive.google.com/file/d/1TzOZnuLw39IZM-jb3tEIeNkeKHBK0v5o/view?usp=sharing).
+- Final Dashboad image: [Employee Dashboard](https://drive.google.com/file/d/1TzOZnuLw39IZM-jb3tEIeNkeKHBK0v5o/view?usp=sharing).
+- Visual Documentation: [Employee Visual Documenation](https://drive.google.com/file/d/1l0eBCHbtxfoT-Ffx_yIHGZBJz3LhGlnp/view?usp=sharing)
+
 
 <BR>
 
