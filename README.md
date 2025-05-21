@@ -25,7 +25,7 @@ This project involves analyzing an Organization's Employee Dataset to compare em
   - **USA:** 465 rows, 7 columns
   - **Other Countries:** 600 rows, 7 columns
 - Final Dashboad image: [Employee Dashboard](https://drive.google.com/file/d/1TzOZnuLw39IZM-jb3tEIeNkeKHBK0v5o/view?usp=sharing).
-- Visual Documentation: [Employee Visual Documenation](https://drive.google.com/file/d/1l0eBCHbtxfoT-Ffx_yIHGZBJz3LhGlnp/view?usp=sharing)
+- Visual Documentation: [Employee Visual Documenation](https://drive.google.com/file/d/1O00-Yhjo1HuXkD24lvRNks50goFmXMzb/view?usp=sharing)
 
 
 <BR>
