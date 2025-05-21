@@ -1,6 +1,5 @@
 # Employees Dataset Cleaning, EDA & Data Visualization using MS.Excel
 
-![Report Dashboard](ReportDashboard.PNG)
 
 <br>
 
@@ -22,11 +21,11 @@ This project involves analyzing an Organization's Employee Dataset to compare em
 
 ### Dataset
 
-- Raw file: [Employee Raw Dataset](https://mega.nz/file/d4og2LBB#i7r8UFJVZ7mr9Z79hvDHO3zk71Yt5vAUKaED3R170Hk).
+- Raw file: [Employee Raw Dataset](https://docs.google.com/spreadsheets/d/1nSlbD4hK4PKEvbycxUQoiU2VU_qbRNKC/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true).
 - The dataset contains 2 different tables:
   - **USA:** 465 rows, 7 columns
   - **Other Countries:** 600 rows, 7 columns
-- Final file: [Employee Cleaned and Visualized Dataset](https://mega.nz/file/YsZFkRbR#k28uI96CGhYVXPd0S0JJnX5EyYNxoKrxklFhtj7I3r4).
+- Dashboad image: [Employee Dashboard](https://drive.google.com/file/d/1TzOZnuLw39IZM-jb3tEIeNkeKHBK0v5o/view?usp=sharing).
 
 <BR>
 
@@ -45,7 +44,7 @@ Tasks Performed:
 
 ### Section B: Business Analysis Questions
 
-**1. Quick Analysis of the Data**
+**1. KPI Analysis**
 - Number of Employees in the dataset.
 - Total Salary.
 - Average Salary.
